@@ -8,6 +8,8 @@ This game was submission for the Full Moon Game Jam 2020, with the theme of: Dua
 [Itch page](https://achie.itch.io/scrapocalypse)  
 [Fantasy Console Game Jam #4](https://itch.io/jam/fcgj4/entries)  
 
+Or download your version of choice from `exports`.
+
 --- 
 
 ![alt text](https://img.itch.zone/aW1nLzIzMTA4MTEucG5n/original/JgJ1j3.png "Screenshot")
